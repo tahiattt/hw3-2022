@@ -39,15 +39,13 @@ div{
     background-color: red;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    border-width: 0px 0px 2px 5px;
 }
 .blue{
     background-color: blue;
     text-align: left;
     margin-right: 50px;
-    border-top: 2px;
-    border-right: 5px;
+    border-width: 2px 5px 0px 0px;
 }
 .blue h2{
     color:  #C4C4C4;
@@ -59,8 +57,7 @@ div{
     background-color: yellow;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    border-width: 0px 0px 2px 5px;
 }
 .yellow p{
     color:  #707070;
@@ -69,8 +66,7 @@ div{
     background-color:  #008500;
     text-align: left;
     margin-right: 50px;
-    border-top: 2px;
-    border-right: 5px;
+    border-width: 2px 5px 0px 0px;
 }
 footer{
     background: rgb(0,0,0);
